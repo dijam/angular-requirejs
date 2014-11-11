@@ -12,5 +12,4 @@ bower install
 Todo:
 * Adding Coffeescript support
 * Adding Sass support
-* Adding grunt/...
 * Adding js/coffee linters
